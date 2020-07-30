@@ -9,4 +9,3 @@ class Player
     "Player name: #{@name}"
   end
 end
-  
